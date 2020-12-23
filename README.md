@@ -4,4 +4,4 @@
 
 # ⚡️・Discord : Shoto LX#1412
 
-# 🔗・Actually in development of my Bot.
+# 🔗・Actually in development of my discord bot called Hinata.
