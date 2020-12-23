@@ -2,6 +2,6 @@
 
 # ⌨️・New to javascript, html and C.
 
-# ⚡️・Discord : Shoto'#0001
+# ⚡️・Discord : Shoto LX#1412
 
 # 🔗・Actually in development of my Bot.
