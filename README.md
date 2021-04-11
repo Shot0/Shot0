@@ -1,7 +1,7 @@
 # 🖖🏽・Welcome on my profile page
 
-# ⌨️・New to javascript, html and C.
+# ⌨️・NodeJS, new to C, C# and python.
 
-# ⚡️・Discord : Shoto LX#1412
+# ⚡️・Discord : Shoto ☯#0911
 
-# 🔗・Actually in development of my discord bot called Hinata.
+# 🔗・I am actually learning JavaScript with HTML / CSS.
