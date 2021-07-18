@@ -1,7 +1,5 @@
 # 🖖🏽・Welcome on my profile page
 
-# ⌨️・NodeJS, new to C, C# and python.
+# ⌨️・JS, C#, HTML, PhP
 
-# ⚡️・Discord : Shoto ☯#0911
-
-# 🔗・I am actually learning JavaScript with HTML / CSS.
+# 🔗・Process...
